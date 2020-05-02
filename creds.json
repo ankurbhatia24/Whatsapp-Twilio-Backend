@@ -1,0 +1,3 @@
+<your-credentials-file>
+<When you setup google sheets api and use it using python, you will get a creds.json file with it>
+<Replace this file with yours>
