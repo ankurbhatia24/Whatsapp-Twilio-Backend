@@ -24,7 +24,7 @@ You can check the database at -
 4. For image/pdf/other-media data, you need to modify the app.py accordingly.
 5. I have set up 9 accounts on twilio, you can try using only one. Modify the if statements Account SID section in app.py.
 6. After Deploying app.py to a web server (I have deployed on ![AWS EC2](https://medium.com/@ankurbhatia_18761/deploy-a-flask-app-on-amazon-aws-ec2-and-keep-it-running-while-you-are-offline-38d22571e2c5), you can also try using ngrok)
-7. After deployment, copy the '<deployment-url>/whatsapp endpoint' and paste in Twilio Whatsapp Sandbox console - <br> 
+7. After deployment, copy the '<deployment-url>/whatsapp endpoint' and paste in Twilio Whatsapp Sandbox webhook - <br> 
   where its mentioned, **when a message comes in**.
   
 ## If you have any problems in setting up, just ping me on **[bhatia.ankur24@gmail.com](bhatia.ankur24@gmail.com)**
