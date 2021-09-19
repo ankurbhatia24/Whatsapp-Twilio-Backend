@@ -135,7 +135,7 @@ def reply_whatsapp():
         #Change according to your headers/ remove if you are processing the media here itself.
         headers = {
                     'Content-Type': 'application/json',
-                    'x-api-key': 'iXS3orLX2h1UNB9GFSy1179zdT1NvCQi4ri5PWi6'
+                    'x-api-key': '<your-x-api-key>'
                 }
 
         #Send Request to the Arogya Setu app Checking API
